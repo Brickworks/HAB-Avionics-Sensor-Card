@@ -1,1 +1,6 @@
-Record=TopLevelDocument|FileName=Controller.SchDoc
+Record=TopLevelDocument|FileName=Controller.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Controller.SchDoc|FileName=Interfaces.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Controller.SchDoc|FileName=Microcontroller.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Controller.SchDoc|FileName=Power-Supplies.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Controller.SchDoc|FileName=Sensors.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Controller.SchDoc|FileName=Transceivers.SchDoc|SheetNumber=2
